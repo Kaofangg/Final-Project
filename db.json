@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": "Monkeyman",
+      "name": "Monkey Man",
+      "password": "12345",
+      "email": "monkeyman@gmail.com",
+      "phone": "8989898989",
+      "role": "admin",
+      "image": ""
+    },
+    {
+      "id": "Gollum",
+      "name": "sdasd",
+      "password": "1234",
+      "email": "sdada@gmail.com",
+      "phone": "4324234",
+      "image": ""
+    },
+    {
+      "name": "ksdas",
+      "email": "dsad@gmail.com",
+      "phone": "2313123",
+      "role": "staff",
+      "id": "z4sF_-O"
+    },
+    {
+      "name": "sdadadw",
+      "email": "dsad@gmail.com",
+      "phone": "4324324",
+      "role": "staff",
+      "id": "1CYhdYV"
+    },
+    {
+      "name": "asdad",
+      "email": "dsadasd",
+      "phone": "sada",
+      "role": "staff",
+      "id": "WPm-AC_"
+    }
+  ]
+}
